@@ -1,0 +1,14 @@
+This is a console based application.
+The visualizations to depict data should present to the user after the user types in input commands
+
+To run the application install pip, and python
+then run these commands in the working directory in a terminal : 
+
+pip install matplotlib
+pip install seaborn
+pip install scikit-learn
+pip install pandas
+pip install numpy
+
+then you should be able to run
+"python main.py"
