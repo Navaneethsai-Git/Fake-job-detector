@@ -12,3 +12,5 @@ pip install numpy
 
 then you should be able to run
 "python main.py"
+
+Please download the csv file using my drive link given in "csv" named folder
